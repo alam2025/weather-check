@@ -15,7 +15,7 @@ document.getElementById('submit-btn').addEventListener('click', function (event)
         })
 
         .catch(error => {
-            alert('Please Enter courrect city');
+            alert('Please Enter correct city');
         })
 })
 
